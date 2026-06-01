@@ -1,1 +1,1 @@
-# Regress-o-Logistica-IA-
+# Regressao-logistica
